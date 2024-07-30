@@ -3,3 +3,4 @@ plotly
 seaborn
 matplotlib
 "the Olympics Analysis Project"
+"Made by gagan sharma"
