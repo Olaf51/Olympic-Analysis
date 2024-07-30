@@ -2,3 +2,4 @@ streamlit
 plotly
 seaborn
 matplotlib
+"the Olympics Analysis Project"
