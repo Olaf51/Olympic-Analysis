@@ -9,6 +9,10 @@ import plotly.figure_factory as ff
 st.set_page_config(layout="wide")
 
 
+plt.legend(loc='upper right')  # Adjust the location as needed
+
+
+
 df = pd.read_csv('athlete_events.csv')
 region_df = pd.read_csv('noc_regions.csv')
 
