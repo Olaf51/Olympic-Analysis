@@ -9,7 +9,7 @@ import plotly.figure_factory as ff
 st.set_page_config(layout="wide")
 
 
-plt.legend(loc='upper right')  # Adjust the location as needed
+
 
 
 
